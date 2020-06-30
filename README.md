@@ -1,4 +1,4 @@
-## xView Data Utilities for <a href="https://doi.org/10.1117/12.2558829"> Small Object Detection using Meta-Data: <b> YOLO4 /<b></a>
+## xView Data Utilities for <a href="https://doi.org/10.1117/12.2558829"> Small Object Detection using Meta-Data: <b> YOLO4 <b></a>
 
 This repository is a copy of the original xView dataset for satellite imagery, and the work is part of the Air Force Labs Summer Faculty Research project (SFFP-2020). There are two main branches one is the data_utilities, and the other is the model. The data_utilities has been updated to train images for YOLO4. The model directory (**under construction**) has the files to train the XView dataset for small objects using pre-trained YOLO4 weights. 
 
